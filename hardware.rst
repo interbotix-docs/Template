@@ -8,7 +8,7 @@ Assembly
 Assemble your robot
 
 .. raw:: html
-   :file: iframe.html
+   :file: _static/iframe.html
 
 
 Wiring
