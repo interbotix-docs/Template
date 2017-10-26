@@ -11,8 +11,7 @@ Description
 This is where the description of the robot goes. What are the features? What board does it use? Does it run on ROS? Are we proud of it? An exhaltation of the virtues of the ease of getting started on this project goes here to really capture the hearts of people who might be on the fence about our robot. Product link.
 
 .. raw:: html
-
-    <iframe width="800" height="600" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 
 About this guide
