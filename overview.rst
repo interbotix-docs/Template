@@ -11,7 +11,7 @@ Description
 This is where the description of the robot goes. What are the features? What board does it use? Does it run on ROS? Are we proud of it? An exhaltation of the virtues of the ease of getting started on this project goes here to really capture the hearts of people who might be on the fence about our robot. Product link.
 
 .. raw:: html
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+   :file: http://learn.trossenrobotics.com/arbotix/7-arbotix-quick-start-guide
 
 
 About this guide
