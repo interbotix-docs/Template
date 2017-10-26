@@ -8,9 +8,7 @@ I guess I have to put text here?
 
 Assembly
 --------
-Assemble your robot
-
-|asm|\
+Assemble your robot |asm|\
 
 
 Wiring
