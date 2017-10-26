@@ -1,6 +1,8 @@
 Hardware
 ========
 
+I guess I have to put text here?
+
 Assembly
 --------
 Assemble your robot
