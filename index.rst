@@ -21,6 +21,9 @@ About this guide
 ----------------
 This will contain a generic description of how this guide is used, the order to follow (same order the information is laid out in, they can just next page through the entirety of the guide and have a completed robot), and a little bit of adlib about the specific robot. 
 
+.. raw:: html
+   :file: _static/iframe.html
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
