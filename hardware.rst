@@ -1,10 +1,10 @@
 Hardware
 ========
 
-I guess I have to put text here?
+Head description
 
 .. |asm| raw:: html
-   :url: http://learn.trossenrobotics.com/projects/165-phantomx-reactor-arm-assembly-guide.html
+   :url: http://bit.ly/2hdEtU1
 
 Assembly
 --------
