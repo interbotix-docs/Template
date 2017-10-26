@@ -9,7 +9,10 @@ Assemble your robot
 
 .. raw:: html
 
-   <link rel="import" href="http://www.burymewithmymoney.com">
+   <object data="http://www.burymewithmymoney.com" width="600" height="400">
+      <embed src="http://www.burymewithmymoney.com" width="600" height="400"> </embed>
+      Error: Embedded data could not be displayed.
+   </object>
 
 
 Wiring
