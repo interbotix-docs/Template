@@ -9,7 +9,7 @@ Assemble your robot
 
 .. raw:: html
 
-   <iframe src="http://www.burymewithmymoney.com" width="800" height="600" frameborder="0"></iframe>
+   <link rel="import" href="http://www.burymewithmymoney.com">
 
 
 Wiring
