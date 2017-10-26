@@ -8,9 +8,7 @@ Assembly
 Assemble your robot
 
 .. raw:: html
-
-   <embed src="http://www.robotgeek.com" width="600" height="400">
-   </embed>
+   :url: http://learn.trossenrobotics.com/projects/165-phantomx-reactor-arm-assembly-guide.html
 
 
 Wiring
