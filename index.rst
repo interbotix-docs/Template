@@ -29,8 +29,7 @@ This will contain a generic description of how this guide is used, the order to 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-    
-   overview.rst
+   
    hardware.rst
    software.rst
    testing.rst
