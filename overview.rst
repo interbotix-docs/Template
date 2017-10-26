@@ -13,12 +13,15 @@ Description
 This is where the description of the robot goes. What are the features? What board does it use? Does it run on ROS? Are we proud of it? An exhaltation of the virtues of the ease of getting started on this project goes here to really capture the hearts of people who might be on the fence about our robot. Product link.
 
 .. raw:: html
-   <center>
-   <iframe width="854" height="480" src="https://www.youtube.com/embed/kODYiIQ1uL4" frameborder="0" allowfullscreen="">
-   </iframe></center>
-   <center>
-   <iframe src="https://myhub.autodesk360.com/ue2881035/shares/public/SHabee1QT1a327cf2b7a25c52f4a961f2ba2?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0">
-   </iframe></center>
+
+        <object width="480" height="385"><param name="movie"
+        value="https://www.youtube.com/watch?v=H9I8uCOkZbc"></param><param
+        name="allowFullScreen" value="true"></param><param
+        name="allowscriptaccess" value="always"></param><embed
+        src="https://www.youtube.com/watch?v=H9I8uCOkZbc"
+        type="application/x-shockwave-flash" allowscriptaccess="always"
+        allowfullscreen="true" width="480"
+        height="385"></embed></object>
    
 
 
